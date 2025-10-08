@@ -1,4 +1,4 @@
-// Alan FIgueroa
+// Author. Alan FIgueroa
 // 9. Palindrome Number
 
 class Palindrome {
